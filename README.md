@@ -2,4 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WKI5GoXl4oCWkbvt72gD0zylvIUjoNGu#scrollTo=L4E9-1YMgVoa)
 
-This code contains extract MFCC features and classification with Random Forest, Decision Tree, CNN, ANN.
+- This code contains extract MFCC features and classification with Random Forest, Decision Tree, CNN, ANN.
+
+References: 
+- https://github.com/gveres/donateacry-corpus
+- https://www.kaggle.com/code/gagandwaz/baby-cry
